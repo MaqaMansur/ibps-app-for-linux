@@ -1,5 +1,6 @@
 gi
 subprocess
+python-nmap
 socket
 Gtk
 Notify
