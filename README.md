@@ -1,7 +1,7 @@
 # Simple IP blocking and packet (+message) sending app
 Block and allow IP for incoming/outgoing traffic on Linux <br>
 Send different packets <br>
-Send message with socket to any port <br>
+Send a message with socket to any port <br>
 It is recommended to run the tool as a sudo user.
 
 # Installation
